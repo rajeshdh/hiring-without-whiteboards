@@ -1248,9 +1248,9 @@ remark-lint-no-shortcut-reference-link@^1.0.0:
     unist-util-generated "^1.1.0"
     unist-util-visit "^1.1.1"
 
-remark-lint-no-tabs@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-tabs/-/remark-lint-no-tabs-1.0.0.tgz#cf3d0106599d6941147ab14ef46eef148a0a2ff5"
+remark-lint-no-tabs@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-tabs/-/remark-lint-no-tabs-1.0.4.tgz#8912c50a248e342e1721f19fa278d519a167644b"
   dependencies:
     unified-lint-rule "^1.0.0"
     vfile-location "^2.0.1"
