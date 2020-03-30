@@ -20,7 +20,7 @@
   "license": "MIT",
   "homepage": "https://github.com/poteto/hiring-without-whiteboards#readme",
   "dependencies": {
-    "remark-cli": "^3.0.0",
+    "remark-cli": "^8.0.0",
     "remark-lint": "^6.0.0",
     "remark-lint-alphabetize-lists": "^2.0.0",
     "remark-lint-hiring-without-whiteboards-links": "^0.3.2",
